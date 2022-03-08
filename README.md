@@ -2,6 +2,6 @@
 
 ------------
 
-## 🤔 What is Journey?
+# 🤔 What is Journey?
 
 Journey is a repository that I use to store my learning progress in exploring new things
